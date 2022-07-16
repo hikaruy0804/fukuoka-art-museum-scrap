@@ -1,6 +1,6 @@
 # fukuoka-art-museum-scrap
 
-### scrapyを使って[福岡市美術館](https://www.fukuoka-art-museum.jp/exhibition/)の企画展情報を取得します。
+### scrapyを使って[福岡市美術館](https://www.fukuoka-art-museum.jp/exhibition/)の展覧会情報を取得します。
 
 ##### 1.scrapyをインストール　※設定方法は省略
 ```
