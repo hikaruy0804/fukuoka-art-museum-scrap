@@ -7,7 +7,7 @@
 pip install scrapy
 ```
 ##### 2.プロジェクトフォルダ(fukuoka_city_museum_scrap)をPCに保存
-##### 3.ターミナル上でプロジェクトフォルダ(fukuoka_city_museum_scrap)に移動し実行
+##### 3.ターミナル上でプロジェクトフォルダ(fukuoka_city_museum_scrap)に移動し以下のコマンドを実行
 
 
 jsonの場合
